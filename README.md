@@ -1,6 +1,6 @@
-aoapc-bac2nd
+aoapc-bac2nd  算法竞赛入门经典(第2版) 刘汝佳 编著  源代码
 ============
-算法竞赛入门经典(第2版) 刘汝佳 编著
+
 
 Source codes for book &lt;&lt;&lt;BeginningAlgorithmContests>> Second edition
 
